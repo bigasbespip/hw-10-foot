@@ -2,6 +2,11 @@ Hedgewars - a turn based strategy game.
 Distributed under the terms of the GNU GPL licence.
 Images and sounds are distributed under the terms of the GNU FDL licence.
 
+Hedgewars 10 Foot - Hedgewars made TV freindly.
+Hedgewars is a party game, and there is no party infront of a laptop.
+The aim of this project is to modify the UI to work on a TV, and the interface to 
+work with a gamepad.
+
 Source:
 Copyright 2004-2013 Andrey Korotaev <unC0Rr@gmail.com>
 Portions copyright 2006-2008 Igor Ulyanov aka Displacer <iulyanov@gmail.com>
